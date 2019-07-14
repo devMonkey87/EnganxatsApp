@@ -1,2 +1,2 @@
 # EnganxatsApp2
-First Android app project.
+First Android app project. INCOMPLETE
